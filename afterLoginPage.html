@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hasina Store</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+        integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <link rel="stylesheet" href="style.css">
+    <script src="https://www.gstatic.com/firebasejs/8.8.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.8.1/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.8.1/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.8.1/firebase-auth.js"></script>
+    <script src="firebase.js" defer></script>
+    <script src="totalQuantity.js" defer></script>
+    <script src="accountHandling2.js" defer></script>
+</head>
+
+<body>
+    <div class="hasina-store">
+        <div class="heading">
+            <div class="logo">
+                <img src="logo.png" id="logo" alt="logo">
+            </div>
+            <div class="search-item">
+                <i class="fas fa-search"></i>
+                <input type="text" title="search" id="search-items" placeholder="Search for item and brands">
+            </div>
+            <div class="navigation">
+                <a href="index.html"><span>HOME</span></a>
+                <a href="productPage.html"><span>PRODUCT</span></a> <!-- <span>PROMOTION</span> -->
+                <a href="contactPage.html"><span>CONTACT</span></a>
+            </div>
+            <div class="icons">
+                <a href="likedProduct.html" title="LikedProductList"> <span> <i class="far fa-heart"></i><small
+                            id="likedProductQuantityForIcon"></small></span></a>
+                <i class="far fa-user"></i>
+                <a href="cart.html"><span class="shopping-cart">
+                        <img src="https://img.icons8.com/ios/512/000000/shopping-cart.png" title="cart-items" />
+                        <small id="quantity"></small></a>
+                </span>
+            </div>
+        </div>
+        <div class=" after-heading active">
+            <div class="bar">
+                <span id="bar"><i class="fas fa-bars"></i></span>
+                <div class="navigationMenu">
+                    <a href="index.html"><span id="home1">HOME</span></a>
+                    <a href="productPage.html"><span id="productNav">PRODUCT</span></a>
+                    <a href="contactPage.html"><span id="contactNav">CONTACT</span></a>
+                </div>
+            </div>
+            <div class="search-item">
+                <input type="text" title="search" id="search-items2" placeholder="Search for item and brands">
+                <i class="fas fa-search"></i>
+            </div>
+        </div>
+        <div class="account-section">
+            <div class="afterLogin">
+                <div class="first-section">
+                    <i class="fas fa-user-circle"></i>
+                    <h3>USER</h3>
+                </div>
+                <div class="second-section">
+                    <h3>Email</h3>
+                    <span class="userEmail">xyz@gmail.com</span>
+                    <button id="signOut">Log Out</button>
+                    <span id="goLoginPage">Log In</span>
+
+                </div>
+            </div>
+        </div>
+        <div class="before-footer">
+            <h1>OUR NEWSLETTER</h1>
+            <small>Promotion new products and sales. Directly to your</small>
+            <div class="subscribe">
+                <input type="email" name="email" id="email" title="email" placeholder="xyz@gmail.com">
+                <button title="subscribe" id="subscribe">SUBSCRIBE</button>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="first-level">
+
+
+                <div class="explore">
+                    <h2>Explore</h2>
+                    <span>HOME</span>
+                    <span>PRODUCT</span>
+                    <span>PROMOTION</span>
+                    <span>CONTACT</span>
+                </div>
+                <div class="advantage">
+                    <h2>Advantage</h2>
+                    <span>Pricing</span>
+                    <span>Free Shipping</span>
+                    <span>Gift Cards</span>
+                </div>
+                <div class="brand">
+                    <h2>Brand</h2>
+                    <span>Apple</span>
+                    <span>Samsung</span>
+                    <span>Asus</span>
+                </div>
+            </div>
+            <div class="second-level">
+
+                <div class="follow">
+                    <h2>Follow</h2>
+                    <span><i class="fab fa-instagram"></i></span>
+                    <span><i class="fab fa-facebook-square"></i></span>
+                    <span><i class="fab fa-twitter-square"></i></span>
+                    <span><i class="fab fa-youtube"></i></span>
+
+                </div>
+                <div class="play-store">
+                    <i class="fab fa-google-play"></i>
+                    <span>GET IT ON</span>
+                    <h3>Google Play</h3>
+                </div>
+            </div>
+            <div class="third-level">
+
+                <div class="copy-right">
+                    <span>&copy; 2022 copyright all reserved</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
