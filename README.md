@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-Hasina Store is a online e-commerce website which sell laptops. In this website, anyone can create a account with username,email and password. The main aim of this website is to provide technologies to each person in the world through selling laptop with least price.
+Hasina Store is a online e-commerce website which sell laptops. In this website, anyone can buy laptops with few simple steps. The main aim of this website is to provide technologies to each person in the world through selling laptop with least price.
 ## Technologies
   Project is created with:
 * HTML
