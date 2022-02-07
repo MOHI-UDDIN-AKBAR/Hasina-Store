@@ -15,7 +15,7 @@ Hasina Store is a online e-commerce website which sell laptops. In this website,
   Project is created with:
 * HTML
 * CSS
-* SASS
+* SCSS
 * JAVASCRIPT
 * FIREBASE
 * ES6
