@@ -1,5 +1,4 @@
 # Hasina-Store
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97860664/152707428-5c7241d9-0909-421f-b4d6-4095b4e2aae2.png" width="500" height="320" />
 ### simple e-commerce website with HTML,CSS,SASS,JAVASCRIPT,FIREBASE
 ## Table of contents
 * [General info](#general-info)
@@ -16,6 +15,8 @@ Hasina Store is a online e-commerce website which sell laptops. In this website,
 * JAVASCRIPT
 * FIREBASE
 * ES6
+
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/97860664/152707428-5c7241d9-0909-421f-b4d6-4095b4e2aae2.png" width="500" height="320" />
 ##Features & TO DO:
 
 ### Home page
@@ -31,4 +32,3 @@ we have contact section to send us message.
 ### Account Page
 User can open account and log in with email verification on Hasina Store.
 
-![Screenshot (29)](https://user-images.githubusercontent.com/97860664/152707428-5c7241d9-0909-421f-b4d6-4095b4e2aae2.png)
