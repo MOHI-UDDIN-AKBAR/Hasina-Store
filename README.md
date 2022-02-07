@@ -19,4 +19,14 @@ In cart page, we give option to increase and decrease quantity of a laptop, also
 we have contact section to send us message.
 ### Account Page
 User can open account and log in with email verification on Hasina Store.
+## Technologies
+  Project is created with:
+* HTML
+* CSS
+* SASS
+* JAVASCRIPT
+* FIREBASE
+* ES6
+
+
 ![Screenshot (29)](https://user-images.githubusercontent.com/97860664/152707428-5c7241d9-0909-421f-b4d6-4095b4e2aae2.png)
