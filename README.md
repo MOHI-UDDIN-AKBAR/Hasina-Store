@@ -1,6 +1,6 @@
 # Hasina-Store
 ### simple e-commerce website with HTML,CSS,SASS,JAVASCRIPT,FIREBASE
- <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/97860664/152707428-5c7241d9-0909-421f-b4d6-4095b4e2aae2.png" width="700" height="520" />
+ <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/97860664/152707428-5c7241d9-0909-421f-b4d6-4095b4e2aae2.png" width="700" height="420" />
 
 ## Table of contents
 * [General info](#general-info)
