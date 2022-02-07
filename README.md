@@ -33,5 +33,4 @@ In cart page, we give option to increase and decrease quantity of a laptop, also
 we have contact section to send us message.
 ### Account Page
 User can open account and log in with email verification on Hasina Store.
-## Usage
-<img align="left" alt="GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHI-UDDIN-AKBAR" />
+
