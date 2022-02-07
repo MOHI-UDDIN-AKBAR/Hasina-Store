@@ -6,7 +6,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Feature & TO DO:](#feature-&-to-do)
-* [Usage](#usage)
+
 
 
 ## General info
@@ -20,7 +20,7 @@ Hasina Store is a online e-commerce website which sell laptops. In this website,
 * FIREBASE
 * ES6
 
-##Feature & TO DO:
+## Feature & TO DO:
 
 ### Home page
 In home page, we displayed our most popular laptops,where anyone can see the the description of a laptop by a simple click on that laptop's picture. People can store their favourite laptops by clicking heart icon. And if someone interest to buy their favourite laptop they can add that product on cart section by a click on add-cart button.
