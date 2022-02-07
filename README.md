@@ -5,7 +5,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Feature & TO DO:](#feature-to-do)
+* [Feature And To Do:](#feature-and-to-do)
 
 
 
