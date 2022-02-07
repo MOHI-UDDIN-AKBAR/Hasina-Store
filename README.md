@@ -25,7 +25,7 @@ Hasina Store is a online e-commerce website which sell laptops. In this website,
 ### Home page
 In home page, we displayed our most popular laptops,where anyone can see the the description of a laptop by a simple click on that laptop's picture. People can store their favourite laptops by clicking heart icon. And if someone interest to buy their favourite laptop they can add that product on cart section by a click on add-cart button.
 ### Product page
-In product page, we displayed all products and same option to like,unlike,add-cart,description of laptop.
+In product page, we displayed all products with option to like,unlike,add-cart,description of laptop.
  <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/97860664/152711121-cfbee671-59d6-48ed-a9f2-801829797091.png" width="500" height="320" />
 
 ### favourite products
