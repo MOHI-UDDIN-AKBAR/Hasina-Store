@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+
 
 ## General info
 Hasina Store is a online e-commerce website which sell laptops. In this website, anyone can buy laptops with few simple steps. The main aim of this website is to provide technologies to each person in the world through selling laptop with least price.
