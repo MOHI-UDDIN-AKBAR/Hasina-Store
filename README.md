@@ -6,7 +6,17 @@
 * [Setup](#setup)
 
 ## General info
-Hasina Store is a online e-commerce website which sell laptops. In this website, anyone can create a account with username,email and password. The website contain few main section.
+Hasina Store is a online e-commerce website which sell laptops. In this website, anyone can create a account with username,email and password. The main aim of this website is to provide technologies to each person in the world through selling laptop with least price.
+## Technologies
+  Project is created with:
+* HTML
+* CSS
+* SASS
+* JAVASCRIPT
+* FIREBASE
+* ES6
+##Features & TO DO:
+
 ### Home page
 In home page, we displayed our most popular laptops,where anyone can see the the description of a laptop by a simple click on that laptop's picture. People can store their favourite laptops by clicking heart icon. And if someone interest to buy their favourite laptop they can add that product on cart section by a click on add-cart button.
 ### Product page
@@ -19,14 +29,5 @@ In cart page, we give option to increase and decrease quantity of a laptop, also
 we have contact section to send us message.
 ### Account Page
 User can open account and log in with email verification on Hasina Store.
-## Technologies
-  Project is created with:
-* HTML
-* CSS
-* SASS
-* JAVASCRIPT
-* FIREBASE
-* ES6
-
 
 ![Screenshot (29)](https://user-images.githubusercontent.com/97860664/152707428-5c7241d9-0909-421f-b4d6-4095b4e2aae2.png)
